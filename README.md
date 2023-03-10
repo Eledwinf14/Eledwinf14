@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eduin fabian ardila</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **laravel,react,**
+- 🌱 I’m currently learning **angular,spring boot,vue,react,**
 
-- 💬 Ask me about **php, javascript angular laravel html css**
+- 💬 Ask me about **php, javascript, angular,vue,sql,html,php,css**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
